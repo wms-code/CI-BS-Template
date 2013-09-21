@@ -33,7 +33,7 @@
 		
 	}
 
-if (defined('ENVIRONMENT'))
+if (defined('ENVIRONMENTENAL'))
 {
 	switch (ENVIRONMENT)
 	{
